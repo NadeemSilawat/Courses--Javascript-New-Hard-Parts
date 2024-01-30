@@ -4,6 +4,4 @@ function multi(value){
     return value *2
 
 }
-
-
 console.log(multi(2));
